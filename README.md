@@ -1,3 +1,3 @@
 # 01-starting-project-css-react
 
-Styled Components
+78. Styled Components & Dynamic Props
